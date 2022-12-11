@@ -1,2 +1,2 @@
 # personal_portfolio
-Personal Portfolio website hosted on 
+This is a personal portfolio / resume project designed using React JS.
